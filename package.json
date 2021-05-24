@@ -1,7 +1,7 @@
 {
   "name": "nod-man",
   "framework": "nodman",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "enjoy nodman server",
   "main": "app.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "nodman-auth": "^1.0.1",
-    "nodman-cli": "^1.0.1",
+    "nodman-cli": "file:vendor/cli",
     "nodman-core": "^1.0.2",
     "nodman-socket": "^1.0.0"
   },
