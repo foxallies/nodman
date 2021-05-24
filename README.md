@@ -14,7 +14,7 @@ run:
 
 ## Copyright &amp; License
 
-&copy; 2021 Jason
-Frame [ [@foxallies](https://t.me/foxallies) / [alireza@ghanbariha.com](mailto:alireza@ghanbariha.com) ]
+&copy; 2021 Alirza
+Ghanbariha [ [@foxallies](https://t.me/foxallies) / [alireza@ghanbariha.com](mailto:alireza@ghanbariha.com) ]
 
 Released under the ISC license.
