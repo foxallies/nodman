@@ -6,7 +6,7 @@ Powerful javascript framework
 
 Install:
 
-	$ npm install -g nodman-cli
+	npm install -g nodman-cli
 
 run:
 
