@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "nodman-auth": "^1.0.1",
-    "nodman-cli": "^1.0.12",
+    "nodman-cli": "^1.0.13",
     "nodman-core": "^1.0.3",
     "nodman-socket": "^1.0.0"
   }
