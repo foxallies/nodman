@@ -5,7 +5,7 @@ export default ({app}) => {
         // api auth with jwt
         router.use(ApiAuth);
         router.group('/user', (router) => {
-            router.use(HasRole('admins'))
+            router.use(HasRole('admin'))
             router.get('/check', (req, res) => {
                 res.json({
                     ok: true,
