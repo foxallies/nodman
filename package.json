@@ -15,7 +15,7 @@
   "dependencies": {
     "nodman-auth": "^1.0.1",
     "nodman-cli": "^1.0.14",
-    "nodman-core": "^1.0.5",
+    "nodman-core": "^1.0.6",
     "nodman-socket": "^1.0.0"
   }
 }
